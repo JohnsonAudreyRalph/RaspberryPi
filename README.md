@@ -42,3 +42,19 @@ Nếu bạn vẫn muốn cho phép truy cập từ xa (như yêu cầu ban đầ
 * Bước 6: Thoát và kiểm tra:
     * ```EXIT;```
     * Thử kết nối từ xa với remote_user.
+
+===================
+
+* Ví dụ: Tạo tài khoản đăng nhập mới trên MariaDB là: User_01 và mật khẩu là user10101
+* Đăng nhập vào MariaDB trên Raspberry Pi
+![This is an alt text.](https://i.imgur.com/bPcHVKn.png "This is a sample image.")
+* Tạo tài khoản đăng nhập và cấp quyền truy cập
+![This is an alt text.](https://i.imgur.com/VzZkl1C.png "This is a sample image.")
+* Kiểm tra tài khoản vừa tạo
+![This is an alt text.](https://i.imgur.com/eUS7RaP.png "This is a sample image.")
+* Sử dụng phần mềm MySQL Workbench để kiểm tra đăng nhập (Nếu cần) [Tải phần mềm ở đây](https://dev.mysql.com/get/Downloads/MySQLGUITools/mysql-workbench-community-8.0.41-winx64.msi).
+* Đăng nhập vào MySQL Workbench
+![This is an alt text.](https://i.imgur.com/sDnXmZw.png "This is a sample image.")
+* Kết quả sau khi đăng nhập thành công vào MySQL Workbench
+
+![This is an alt text.](https://i.imgur.com/0KbvOSx.png "This is a sample image.")
